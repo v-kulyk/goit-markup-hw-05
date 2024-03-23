@@ -794,6 +794,7 @@ input[type="checkbox"].form-checkbox:checked
   height: 40px;
   background: transparent;
   color: var(--white);
+  padding-left: 16px;
 }
 .footer-subscribe .form-input:focus {
   outline: none;
